@@ -1,0 +1,11 @@
+feature
+rotational_speed_[rpm]
+tool_wear_[min]
+air_temperature_[k]
+type
+twf
+pwf
+process_temperature_[k]
+hdf
+rnf
+osf
